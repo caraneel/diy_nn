@@ -1,0 +1,580 @@
+{
+  "entries": [
+    {
+      "year": 1970,
+      "name": "Gary Muhrcke",
+      "country": "United States",
+      "gender": "male"
+    },
+    {
+      "year": 1971,
+      "name": "Norman Higgins",
+      "country": "United States",
+      "gender": "male"
+    },
+    {
+      "year": 1972,
+      "name": "Sheldon Karlin",
+      "country": "United States",
+      "gender": "male"
+    },
+    {
+      "year": 1973,
+      "name": "Tom Fleming",
+      "country": "United States",
+      "gender": "male"
+    },
+    {
+      "year": 1974,
+      "name": "Norbert Sander",
+      "country": "United States",
+      "gender": "male"
+    },
+    {
+      "year": 1975,
+      "name": "Tom Fleming",
+      "country": "United States",
+      "gender": "male"
+    },
+    {
+      "year": 1976,
+      "name": "Bill Rodgers",
+      "country": "United States",
+      "gender": "male"
+    },
+    {
+      "year": 1977,
+      "name": "Bill Rodgers",
+      "country": "United States",
+      "gender": "male"
+    },
+    {
+      "year": 1978,
+      "name": "Bill Rodgers",
+      "country": "United States",
+      "gender": "male"
+    },
+    {
+      "year": 1979,
+      "name": "Bill Rodgers",
+      "country": "United States",
+      "gender": "male"
+    },
+    {
+      "year": 1980,
+      "name": "Alberto Salazar",
+      "country": "United States",
+      "gender": "male"
+    },
+    {
+      "year": 1981,
+      "name": "Alberto Salazar",
+      "country": "United States",
+      "gender": "male"
+    },
+    {
+      "year": 1982,
+      "name": "Alberto Salazar",
+      "country": "United States",
+      "gender": "male"
+    },
+    {
+      "year": 1983,
+      "name": "Rod Dixon",
+      "country": "New Zealand",
+      "gender": "male"
+    },
+    {
+      "year": 1984,
+      "name": "Orlando Pizzolato",
+      "country": "Italy",
+      "gender": "male"
+    },
+    {
+      "year": 1985,
+      "name": "Orlando Pizzolato",
+      "country": "Italy",
+      "gender": "male"
+    },
+    {
+      "year": 1986,
+      "name": "Gianni Poli",
+      "country": "Italy",
+      "gender": "male"
+    },
+    {
+      "year": 1987,
+      "name": "Ibrahim Hussein",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 1988,
+      "name": "Steve Jones",
+      "country": "United Kingdom",
+      "gender": "male"
+    },
+    {
+      "year": 1989,
+      "name": "Juma Ikangaa",
+      "country": "Tanzania",
+      "gender": "male"
+    },
+    {
+      "year": 1990,
+      "name": "Douglas Wakiihuri",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 1991,
+      "name": "Salvador García",
+      "country": "Mexico",
+      "gender": "male"
+    },
+    {
+      "year": 1992,
+      "name": "Willie Mtolo",
+      "country": "South Africa",
+      "gender": "male"
+    },
+    {
+      "year": 1993,
+      "name": "Andrés Espinosa",
+      "country": "Mexico",
+      "gender": "male"
+    },
+    {
+      "year": 1994,
+      "name": "Germán Silva",
+      "country": "Mexico",
+      "gender": "male"
+    },
+    {
+      "year": 1995,
+      "name": "Germán Silva",
+      "country": "Mexico",
+      "gender": "male"
+    },
+    {
+      "year": 1996,
+      "name": "Giacomo Leone",
+      "country": "Italy",
+      "gender": "male"
+    },
+    {
+      "year": 1997,
+      "name": "John Kagwe",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 1998,
+      "name": "John Kagwe",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 1999,
+      "name": "Joseph Chebet",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 2000,
+      "name": "Abdelkader El Mouaziz",
+      "country": "Morocco",
+      "gender": "male"
+    },
+    {
+      "year": 2001,
+      "name": "Tesfaye Jifar",
+      "country": "Ethiopia",
+      "gender": "male"
+    },
+    {
+      "year": 2002,
+      "name": "Rodgers Rop",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 2003,
+      "name": "Martin Lel",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 2004,
+      "name": "Hendrick Ramaala",
+      "country": "South Africa",
+      "gender": "male"
+    },
+    {
+      "year": 2005,
+      "name": "Paul Tergat",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 2006,
+      "name": "Marílson Gomes dos Santos",
+      "country": "Brazil",
+      "gender": "male"
+    },
+    {
+      "year": 2007,
+      "name": "Martin Lel",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 2008,
+      "name": "Marílson Gomes dos Santos (2)",
+      "country": "Brazil",
+      "gender": "male"
+    },
+    {
+      "year": 2009,
+      "name": "Meb Keflezighi",
+      "country": "United States",
+      "gender": "male"
+    },
+    {
+      "year": 2010,
+      "name": "Gebregziabher Gebremariam",
+      "country": "Ethiopia",
+      "gender": "male"
+    },
+    {
+      "year": 2011,
+      "name": "Geoffrey Mutai",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 2013,
+      "name": "Geoffrey Mutai",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 2014,
+      "name": "Wilson Kipsang",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 2015,
+      "name": "Stanley Biwott",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 2016,
+      "name": "Ghirmay Ghebreslassie",
+      "country": "Eritrea",
+      "gender": "male"
+    },
+    {
+      "year": 2017,
+      "name": "Geoffrey Kamworor",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 2018,
+      "name": "Lelisa Desisa",
+      "country": "Ethiopia",
+      "gender": "male"
+    },
+    {
+      "year": 2019,
+      "name": "Geoffrey Kamworor (2)",
+      "country": "Kenya",
+      "gender": "male"
+    },
+    {
+      "year": 1972,
+      "name": "Nina Kuscsik",
+      "country": "United States",
+      "gender": "female"
+    },
+    {
+      "year": 1973,
+      "name": "Nina Kuscsik",
+      "country": "United States",
+      "gender": "female"
+    },
+    {
+      "year": 1974,
+      "name": "Kathrine Switzer",
+      "country": "United States",
+      "gender": "female"
+    },
+    {
+      "year": 1975,
+      "name": "Kim Merritt",
+      "country": "United States",
+      "gender": "female"
+    },
+    {
+      "year": 1976,
+      "name": "Miki Gorman",
+      "country": "United States",
+      "gender": "female"
+    },
+    {
+      "year": 1977,
+      "name": "Miki Gorman",
+      "country": "United States",
+      "gender": "female"
+    },
+    {
+      "year": 1978,
+      "name": "Grete Waitz",
+      "country": "Norway",
+      "gender": "female"
+    },
+    {
+      "year": 1979,
+      "name": "Grete Waitz",
+      "country": "Norway",
+      "gender": "female"
+    },
+    {
+      "year": 1980,
+      "name": "Grete Waitz",
+      "country": "Norway",
+      "gender": "female"
+    },
+    {
+      "year": 1981,
+      "name": "Allison Roe",
+      "country": "New Zealand",
+      "gender": "female"
+    },
+    {
+      "year": 1982,
+      "name": "Grete Waitz",
+      "country": "Norway",
+      "gender": "female"
+    },
+    {
+      "year": 1983,
+      "name": "Grete Waitz",
+      "country": "Norway",
+      "gender": "female"
+    },
+    {
+      "year": 1984,
+      "name": "Grete Waitz",
+      "country": "Norway",
+      "gender": "female"
+    },
+    {
+      "year": 1985,
+      "name": "Grete Waitz",
+      "country": "Norway",
+      "gender": "female"
+    },
+    {
+      "year": 1986,
+      "name": "Grete Waitz",
+      "country": "Norway",
+      "gender": "female"
+    },
+    {
+      "year": 1987,
+      "name": "Priscilla Welch",
+      "country": "United Kingdom",
+      "gender": "female"
+    },
+    {
+      "year": 1988,
+      "name": "Grete Waitz",
+      "country": "Norway",
+      "gender": "female"
+    },
+    {
+      "year": 1989,
+      "name": "Ingrid Kristiansen",
+      "country": "Norway",
+      "gender": "female"
+    },
+    {
+      "year": 1990,
+      "name": "Wanda Panfil",
+      "country": "Poland",
+      "gender": "female"
+    },
+    {
+      "year": 1991,
+      "name": "Liz McColgan",
+      "country": "United Kingdom",
+      "gender": "female"
+    },
+    {
+      "year": 1992,
+      "name": "Lisa Ondieki",
+      "country": "Australia",
+      "gender": "female"
+    },
+    {
+      "year": 1993,
+      "name": "Uta Pippig",
+      "country": "Germany",
+      "gender": "female"
+    },
+    {
+      "year": 1994,
+      "name": "Tegla Loroupe",
+      "country": "Kenya",
+      "gender": "female"
+    },
+    {
+      "year": 1995,
+      "name": "Tegla Loroupe",
+      "country": "Kenya",
+      "gender": "female"
+    },
+    {
+      "year": 1996,
+      "name": "Anuța Cătună",
+      "country": "Romania",
+      "gender": "female"
+    },
+    {
+      "year": 1997,
+      "name": "Franziska Rochat-Moser",
+      "country": "Switzerland",
+      "gender": "female"
+    },
+    {
+      "year": 1998,
+      "name": "Franca Fiacconi",
+      "country": "Italy",
+      "gender": "female"
+    },
+    {
+      "year": 1999,
+      "name": "Adriana Fernandez",
+      "country": "Mexico",
+      "gender": "female"
+    },
+    {
+      "year": 2000,
+      "name": "Lyudmila Petrova",
+      "country": "Russia",
+      "gender": "female"
+    },
+    {
+      "year": 2001,
+      "name": "Margaret Okayo",
+      "country": "Kenya",
+      "gender": "female"
+    },
+    {
+      "year": 2002,
+      "name": "Joyce Chepchumba",
+      "country": "Kenya",
+      "gender": "female"
+    },
+    {
+      "year": 2003,
+      "name": "Margaret Okayo",
+      "country": "Kenya",
+      "gender": "female"
+    },
+    {
+      "year": 2004,
+      "name": "Paula Radcliffe",
+      "country": "United Kingdom",
+      "gender": "female"
+    },
+    {
+      "year": 2005,
+      "name": "Jeļena Prokopčuka",
+      "country": "Latvia",
+      "gender": "female"
+    },
+    {
+      "year": 2006,
+      "name": "Jeļena Prokopčuka",
+      "country": "Latvia",
+      "gender": "female"
+    },
+    {
+      "year": 2007,
+      "name": "Paula Radcliffe",
+      "country": "United Kingdom",
+      "gender": "female"
+    },
+    {
+      "year": 2008,
+      "name": "Paula Radcliffe",
+      "country": "United Kingdom",
+      "gender": "female"
+    },
+    {
+      "year": 2009,
+      "name": "Derartu Tulu",
+      "country": "Ethiopia",
+      "gender": "female"
+    },
+    {
+      "year": 2010,
+      "name": "Edna Kiplagat",
+      "country": "Kenya",
+      "gender": "female"
+    },
+    {
+      "year": 2011,
+      "name": "Firehiwot Dado",
+      "country": "Ethiopia",
+      "gender": "female"
+    },
+    {
+      "year": 2013,
+      "name": "Priscah Jeptoo",
+      "country": "Kenya",
+      "gender": "female"
+    },
+    {
+      "year": 2014,
+      "name": "Mary Keitany",
+      "country": "Kenya",
+      "gender": "female"
+    },
+    {
+      "year": 2015,
+      "name": "Mary Keitany",
+      "country": "Kenya",
+      "gender": "female"
+    },
+    {
+      "year": 2016,
+      "name": "Mary Keitany",
+      "country": "Kenya",
+      "gender": "female"
+    },
+    {
+      "year": 2017,
+      "name": "Shalane Flanagan",
+      "country": "United States",
+      "gender": "female"
+    },
+    {
+      "year": 2018,
+      "name": "Mary Keitany",
+      "country": "Kenya",
+      "gender": "female"
+    },
+    {
+      "year": 2019,
+      "name": "Joyciline Jepkosgei",
+      "country": "Kenya",
+      "gender": "female"
+    }
+  ]
+}

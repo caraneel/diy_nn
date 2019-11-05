@@ -1,0 +1,97 @@
+year,name,country,time,gender
+1970,Gary Muhrcke,United States,2:31:38,male
+1971,Norman Higgins,United States,2:22:54,male
+1972,Sheldon Karlin,United States,2:27:52,male
+1973,Tom Fleming,United States,2:21:54,male
+1974,Norbert Sander,United States,2:26:30,male
+1975,Tom Fleming ,United States,2:19:27,male
+1976,Bill Rodgers,United States,2:10:10,male
+1977,Bill Rodgers,United States,2:11:28,male
+1978,Bill Rodgers ,United States,2:12:12,male
+1979,Bill Rodgers ,United States,2:11:42,male
+1980,Alberto Salazar,United States,2:09:41,male
+1981,Alberto Salazar,United States,2:08:13,male
+1982,Alberto Salazar ,United States,2:09:29,male
+1983,Rod Dixon,New Zealand ,2:08:59,male
+1984,Orlando Pizzolato,Italy,2:14:53,male
+1985,Orlando Pizzolato,Italy,2:11:34,male
+1986,Gianni Poli,Italy,2:11:06,male
+1987,Ibrahim Hussein,Kenya,2:11:01,male
+1988,Steve Jones,United Kingdom,2:08:20,male
+1989,Juma Ikangaa,Tanzania ,2:08:01,male
+1990,Douglas Wakiihuri,Kenya ,2:12:39,male
+1991,Salvador García,Mexico,2:09:28,male
+1992,Willie Mtolo,South Africa,2:09:29,male
+1993,Andrés Espinosa,Mexico ,2:10:04,male
+1994,Germán Silva,Mexico,2:11:21,male
+1995,Germán Silva,Mexico ,2:11:00,male
+1996,Giacomo Leone,Italy,2:09:54,male
+1997,John Kagwe,Kenya,2:08:12,male
+1998,John Kagwe ,Kenya ,2:08:45,male
+1999,Joseph Chebet,Kenya,2:09:14,male
+2000,Abdelkader El Mouaziz,Morocco ,2:10:09,male
+2001,Tesfaye Jifar,Ethiopia ,2:07:43,male
+2002,Rodgers Rop,Kenya,2:08:07,male
+2003,Martin Lel,Kenya,2:10:30,male
+2004,Hendrick Ramaala,South Africa,2:09:28,male
+2005,Paul Tergat,Kenya,2:09:30,male
+2006,Marílson Gomes dos Santos,Brazil,2:09:58,male
+2007,Martin Lel ,Kenya,2:09:04,male
+2008,Marílson Gomes dos Santos (2),Brazil,2:08:43,male
+2009,Meb Keflezighi,United States,2:09:15,male
+2010,Gebregziabher Gebremariam,Ethiopia,2:08:14,male
+2011,Geoffrey Mutai,Kenya,2:05:05,male
+2013,Geoffrey Mutai ,Kenya,2:08:24,male
+2014,Wilson Kipsang,Kenya,2:10:59,male
+2015,Stanley Biwott,Kenya,2:10:34,male
+2016,Ghirmay Ghebreslassie,Eritrea,2:07:51,male
+2017,Geoffrey Kamworor,Kenya,2:10:53,male
+2018,Lelisa Desisa,Ethiopia,2:05:59,male
+2019,Geoffrey Kamworor (2),Kenya,2:08:13,male
+1972,Nina Kuscsik,United States,3:08:41,female
+1973,Nina Kuscsik,United States,2:57:07,female
+1974,Kathrine Switzer,United States,3:07:29,female
+1975,Kim Merritt,United States,2:46:14,female
+1976,Miki Gorman,United States,2:39:11,female
+1977,Miki Gorman,United States,2:43:10,female
+1978,Grete Waitz,Norway,2:32:30,female
+1979,Grete Waitz,Norway,2:27:33,female
+1980,Grete Waitz,Norway,2:25:42,female
+1981,Allison Roe,New Zealand,2:25:29,female
+1982,Grete Waitz,Norway,2:27:14,female
+1983,Grete Waitz,Norway,2:27:00,female
+1984,Grete Waitz,Norway,2:29:30,female
+1985,Grete Waitz,Norway,2:28:34,female
+1986,Grete Waitz,Norway,2:28:06,female
+1987,Priscilla Welch,United Kingdom ,2:30:17,female
+1988,Grete Waitz,Norway,2:28:07,female
+1989,Ingrid Kristiansen,Norway,2:25:30,female
+1990,Wanda Panfil,Poland,2:30:45,female
+1991,Liz McColgan,United Kingdom,2:27:32,female
+1992,Lisa Ondieki,Australia,2:24:40,female
+1993,Uta Pippig,Germany,2:26:24,female
+1994,Tegla Loroupe,Kenya,2:27:37,female
+1995,Tegla Loroupe,Kenya,2:28:06,female
+1996,Anuța Cătună,Romania,2:28:18,female
+1997,Franziska Rochat-Moser,Switzerland,2:28:43,female
+1998,Franca Fiacconi,Italy,2:25:17,female
+1999,Adriana Fernandez,Mexico,2:25:06,female
+2000,Lyudmila Petrova,Russia,2:25:45,female
+2001,Margaret Okayo,Kenya,2:24:21,female
+2002,Joyce Chepchumba,Kenya,2:25:56,female
+2003,Margaret Okayo,Kenya,2:22:31,female
+2004,Paula Radcliffe,United Kingdom,2:23:10,female
+2005,Jeļena Prokopčuka,Latvia,2:24:41,female
+2006,Jeļena Prokopčuka,Latvia,2:25:05,female
+2007,Paula Radcliffe,United Kingdom,2:23:09,female
+2008,Paula Radcliffe,United Kingdom,2:23:56,female
+2009,Derartu Tulu,Ethiopia ,2:28:52,female
+2010,Edna Kiplagat,Kenya,2:28:20,female
+2011,Firehiwot Dado,Ethiopia ,2:23:15,female
+2013,Priscah Jeptoo,Kenya,2:25:07,female
+2014,Mary Keitany,Kenya,2:25:07,female
+2015,Mary Keitany,Kenya,2:24:25,female
+2016,Mary Keitany,Kenya,2:24:26,female
+2017,Shalane Flanagan,United States,2:26:53,female
+2018,Mary Keitany,Kenya,2:22:48,female
+2019,Joyciline Jepkosgei,Kenya,2:22:38,female
